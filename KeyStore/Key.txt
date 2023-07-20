@@ -1,0 +1,3 @@
+Alias: orbitrush
+Key pass: 9379992
+Store pass: 9379992

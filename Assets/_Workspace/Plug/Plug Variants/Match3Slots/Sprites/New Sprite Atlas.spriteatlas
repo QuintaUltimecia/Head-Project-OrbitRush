@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4bcdcb4ee6b59fa49ada471debd32aea, type: 3}
+    - {fileID: 2800000, guid: 2090abc9ef61b6f4fbfe6fc2c678dd9c, type: 3}
+    - {fileID: 2800000, guid: 342a51469da45e1438b0fad3331c90f1, type: 3}
+    - {fileID: 2800000, guid: 61529a74e4524f24bab32782312c0ad5, type: 3}
+    - {fileID: 2800000, guid: f0d0e99ef8e1c324e8acf2ec38c49a1b, type: 3}
+    - {fileID: 2800000, guid: 94a205dab1bd24f40a89be5e525c4280, type: 3}
+    - {fileID: 2800000, guid: f93f63eccf70afa4c8c9439f0602c788, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 61529a74e4524f24bab32782312c0ad5, type: 3}
+  - {fileID: 21300000, guid: 342a51469da45e1438b0fad3331c90f1, type: 3}
+  - {fileID: 21300000, guid: 2090abc9ef61b6f4fbfe6fc2c678dd9c, type: 3}
+  - {fileID: 21300000, guid: 94a205dab1bd24f40a89be5e525c4280, type: 3}
+  - {fileID: 21300000, guid: f93f63eccf70afa4c8c9439f0602c788, type: 3}
+  - {fileID: 21300000, guid: 4bcdcb4ee6b59fa49ada471debd32aea, type: 3}
+  - {fileID: 21300000, guid: f0d0e99ef8e1c324e8acf2ec38c49a1b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4
+  - 3
+  - 2
+  - 6
+  - 7
+  - 1
+  - 5
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
